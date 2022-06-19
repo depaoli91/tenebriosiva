@@ -41,12 +41,32 @@ header nav a:hover{
    }
 
 
-.inicio{
-  margin-top:5%;
-  font-size:200%;
-  text-align: center;
 
-}
+   @media (min-width:1800px){
+
+    .inicio{
+      margin-top:5%;
+      font-size:200%;
+      text-align: center;
+    
+    }
+    
+    }
+
+    @media (max-width:1800px){
+
+      .inicio{
+        margin-top:5%;
+        font-size:200%;
+        text-align: center;
+      
+      }
+      
+      }
+
+
+
+
 
 @media (min-width:1800px){
 
@@ -63,8 +83,8 @@ header nav a:hover{
 
   .texto{
   
-      font-size:100%;
-      text-align:justify;
+      font-size:150%;
+      text-align:left;
   
     }
   
