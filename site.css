@@ -48,11 +48,26 @@ header nav a:hover{
 
 }
 
+@media (min-width:1800px){
+
 .texto{
 
     font-size:200%;
     text-align:justify;
 
+  }
+
+}
+
+@media (max-width:1800px){
+
+  .texto{
+  
+      font-size:200%;
+      text-align:left;
+  
+    }
+  
   }
 
   .img{
